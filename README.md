@@ -1,5 +1,6 @@
 # Wine Quality Prediction
 ___
+
 The following table is the physicochemical variables of wine:
 | No | Variables |
 | :-: | :-: |
