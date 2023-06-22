@@ -18,7 +18,7 @@ The budget-efficiency and time is the important things for wine-maker to create 
 
 Wine is the fermented juics of the grape and become the luxury symbol for mid-to-high class. Wine is not only drinkable, but also became one of many ingredients for cook. However, there are certain kind of grape that can be fermented. The grape genus Vitis (e.g. *Vitis vinifera* or called European grape) is one of them. This grape have been developed and recently reported that about 5000 wines is made from this grape. 
 
-Italy be the most export 
+According to [Forbes](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f), Italy be the most wine exporting countries and U.S. is the most in terms of wine consumers. Italy shiped about 2 million hectolitre of wine of the beverage
 
 The following table is the physicochemical variables of wine:
 
@@ -37,7 +37,8 @@ The following table is the physicochemical variables of wine:
 
 We will give a brief explanation of these physicochemical variables in the list.
 
-
+<p align = 'center'> <strong>5. Reference</strong> </p>
+1. Forbes - Wine exports Break World Record. https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f
 __
 Fikri Abdillah @
 
