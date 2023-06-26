@@ -20,7 +20,7 @@ Wine is the fermented juics of the grape and become the luxury symbol for mid-to
 
 According to [Forbes](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f), Italy be the most wine exporting countries and U.S. is the most in terms of wine consumers in 2022. Althought still in covid pandemic era, Italy shiped about 20 million hectolitre of wine of the beverage, followed by Spain and France. The overall production this year is nearly 260 milllion hectoliters. From this data, we can conclude that there is a lot of big fan of wine around the world and this post-fermented product is one of the daily needs either for cook or drink.
 
-Winemaking is a series of the process to transform something into wine (e.g. grape). This process involves wide range of bacteria which had significant influence of wine quality  [1].
+Winemaking is a series of the process to transform something into wine (e.g. grape). This process involves wide range of bacteria which had significant influence of wine quality [1].
 
 The following table is the physicochemical variables of wine:
 
@@ -40,8 +40,9 @@ The following table is the physicochemical variables of wine:
 We will give a brief explanation of these physicochemical variables in the list.
 
 <p align = 'center'> <strong>5. Reference</strong> </p>
-1. Forbes - Wine exports Break World Record. https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f
-2. Bohme, K. Barros-Velázquez, J. Calo-Mata, P. Red Wine Technology. Academic Press, 2019.
+1. [Forbes - Wine exports Break World Record](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f) 
+
+2. [Bohme, K. Barros-Velázquez, J. Calo-Mata, P. Red Wine Technology. Academic Press, 2019](https://www.sciencedirect.com/science/article/abs/pii/B9780128143995000086).
 
 __
 Fikri Abdillah @
