@@ -18,7 +18,7 @@ The budget-efficiency and time is the important things for wine-maker to create 
 
 Wine is the fermented juics of the grape and become the luxury symbol for mid-to-high class. Wine is not only drinkable, but also became one of many ingredients for cook. However, there are certain kind of grape that can be fermented. The grape genus Vitis (e.g. *Vitis vinifera* or called European grape) is one of them. This grape have been developed and recently reported that about 5000 wines is made from this grape. 
 
-According to [Forbes](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f), Italy be the most wine exporting countries and U.S. is the most in terms of wine consumers in 2022. Althought still in covid pandemic era, Italy shiped about 20 million hectolitre of wine of the beverage, followed by Spain and France. The overall production this year is nearly 260 milllion hectoliters. 
+According to [Forbes](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f), Italy be the most wine exporting countries and U.S. is the most in terms of wine consumers in 2022. Althought still in covid pandemic era, Italy shiped about 20 million hectolitre of wine of the beverage, followed by Spain and France. The overall production this year is nearly 260 milllion hectoliters. From this data, we can conclude that there is a lot of big fan of wine around the world and this post-fermented product is one of the daily needs either for cook or drink.
 
 The following table is the physicochemical variables of wine:
 
