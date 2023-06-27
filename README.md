@@ -20,11 +20,11 @@ Wine is the fermented juics of the grape and become the luxury symbol for mid-to
 
 According to [Forbes](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f), Italy be the most wine exporting countries and U.S. is the most in terms of wine consumers in 2022. Althought still in covid pandemic era, Italy shiped about 20 million hectolitre of wine of the beverage, followed by Spain and France. The overall production this year is nearly 260 milllion hectoliters. From this data, we can conclude that there is a lot of big fan of wine around the world and this post-fermented product is one of the daily needs either for cook or drink.
 
-Winemaking is a series of the process to transform something into wine (e.g. grape). This process involves wide range of bacteria which had significant influence and may cause negative attributes of some wines [2]. Some indicators such as pH and alcohol, volatile acidity, and etc could make wine  the best or the worst. So, as a data scientist....
+Winemaking is a series of the process to transform something into wine (e.g. grape). This process involves wide range of bacteria which had significant influence and may cause negative attributes of some wines [2]. Some indicators such as pH and alcohol, volatile acidity, and etc could make wine  the best or the worst. So, as a data scientist, we are requested to analyze *what variable that can be significant influience of high or low of  wine quality*.
 
 <p align = 'center'><strong> 2. Data Comprehension </strong></p>
 
-This dataset is originally from [UC machine learning dataset] of University of California Davis :
+This dataset is originally from [UC machine learning dataset]() of University of California Davis :
 
 | No | Variables |
 | :-: | :-: |
@@ -40,6 +40,10 @@ This dataset is originally from [UC machine learning dataset] of University of C
 | 10 | `alcohol` |
 
 We will give a brief explanation of these physicochemical variables in the list.
+
+<p align = 'center'> <strong>3. Result</strong> </p>
+
+<p align = 'center'> <strong>4. Conclusion</strong> </p>
 
 <p align = 'center'> <strong>5. Reference</strong> </p>
 1. [Forbes - Wine exports Break World Record](https://www.forbes.com/sites/lizthach/2023/04/20/wine-exports-break-world-record-in-2022/?sh=258b7709451f) 
