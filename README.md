@@ -24,7 +24,7 @@ Winemaking is a series of the process to transform something into wine (e.g. gra
 
 <p align = 'center'><strong> 2. Data Comprehension </strong></p>
 
-This dataset is originally from [UC machine learning dataset]() of University of California Davis :
+The Wine Quality dataset is originally from [UC machine learning dataset](https://archive.ics.uci.edu/dataset/186/wine+quality). THis dataset is uploaded by Cortez from University of California Davis :
 
 | No | Variables |
 | :-: | :-: |
