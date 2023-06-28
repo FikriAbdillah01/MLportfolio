@@ -2,10 +2,10 @@
 ___
 ## Content
 1. Introduction
-2. Data Comprehension
-3. Result
-4. Conclusion
-5. Reference
+2. Data Comprehension and Processing
+4. Result
+5. Conclusion
+6. Reference
 ___
 <p align = 'center'> <strong>Abstract</strong> </p>
 
@@ -24,7 +24,7 @@ Winemaking is a series of the process to transform something into wine (e.g. gra
 
 <p align = 'center'><strong> 2. Data Comprehension </strong></p>
 
-The Wine Quality dataset is originally from [UC machine learning dataset](https://archive.ics.uci.edu/dataset/186/wine+quality). THis dataset is uploaded by Cortez from University of California Davis  and had  several variables need to be analyze:
+The Wine Quality dataset is originally from [UC machine learning dataset](https://archive.ics.uci.edu/dataset/186/wine+quality). THis dataset is uploaded by Cortez from University of California Davis  and contain several variables of physicochemical of wine:
 
 | No | Variables |
 | :-: | :-: |
@@ -39,7 +39,15 @@ The Wine Quality dataset is originally from [UC machine learning dataset](https:
 | 9 | `sulphates` |
 | 10 | `alcohol` |
 
-We will give a brief explanation of these physicochemical variables in the list. There is no useless variables  and ...
+We will give a brief explanation of these variables. The steps after get the data, we check:
+
+* Data duplication
+* Null data
+* 3M (mean, median, mode)
+* Minimum and maximum value each feature
+* Interval value between feature and label
+
+These information are  important to data scientist 
 
 <p align = 'center'> <strong>3. Result</strong> </p>
 
