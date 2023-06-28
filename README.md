@@ -47,7 +47,7 @@ We will give a brief explanation of these variables. The steps after get the dat
 * Minimum and maximum value each feature
 * Interval value between feature and label
 
-These information are important to data scientist to determine what step should they take. After that, we explore this data  by showing some graph 
+These information are important to data scientist to determine what step should they take. After that, we explore this data  by showing some graph and some statistical method like p-value to test the null hypotesis. In this project, we use simple model for regression and classification
 
 <p align = 'center'> <strong>3. Result</strong> </p>
 
