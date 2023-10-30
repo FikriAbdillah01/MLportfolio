@@ -1,9 +1,0 @@
-pandas
-numpy
-seaborn
-matplotlib
-plotly
-sklearn
-scipy
-
--e .
