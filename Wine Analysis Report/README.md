@@ -88,6 +88,8 @@ Table 3. 1 Data Mining Result
 ||alcohol |||1143 |||10\.44|||1\.08|` `2||8\.4 |||9\.5 |||10\.2 |||11\.1 |||14\.9 ||
 ||quality |||1143 |||5\.657|||0\.80|` `6||3 |||5 |||6 |||6 |||8 ||
 ||Id |||1143 |||805 |||464 |||0 |||411 |||794 |||1210|||1597 ||
+
+
 The ‘Id’ feature is not give an information, so we decided to drop it. At exploratory data analysis process, we are using the Pearson Correlation method to know which psychochemical had significant impact to the quality of wine. The result in order of this method is: 
 
 1. Alcohol  
