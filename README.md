@@ -1,6 +1,5 @@
 # MLportofolio
 
 Hi
-My Name is Fikri. This is my learning record of machine learning. I need to tidy up this portofolio. I'm sorry for incovenience.
-
+My Name is Fikri. Physics Graduate of Institut Teknologi Kalimantan. I posted my learning progress of data analysis on this repositories, such as SQL and Machine Learning.
 Feel free to see.
