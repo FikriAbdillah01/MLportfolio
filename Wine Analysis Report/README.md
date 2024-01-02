@@ -133,13 +133,12 @@ Figure 3. 4 Confusion Matrix
 
 By knowing TP dan True Positive Rate (TPR/sensitivity) can be calculated by 
 
-- , ![](Aspose.Words.a2349d8d-aeba-4585-b815-3decab57863a.008.png)+
+$$ sensitivity = \frac{TP}{TP + FN} $$
 
 TPR tells us what proportion of positive class got correctly classified. whereas False Positive Rate (FPR) is 
 
-- 1 − = 1 −![](Aspose.Words.a2349d8d-aeba-4585-b815-3decab57863a.009.png)=![](Aspose.Words.a2349d8d-aeba-4585-b815-3decab57863a.010.png)
+$$FPR = 1 - specificity = 1 - \frac {TN}{TN + FP} =  \frac {FP}{TN+FP}$$
 
-\+ +
 
 which tells us how many negative class got correctly classified The confusion matrix can be seen in Figure 3.5The confusion matrix shows that the Logistic Regression model can correctly predict about 250 samples (True Positive: 242 and True Negative: 17) of wine quality, while there are 32 false predictions (False Positive: 9 and False Negative: 23). Accuracy on this model is 0.89. 
 
