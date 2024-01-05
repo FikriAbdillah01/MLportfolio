@@ -25,6 +25,6 @@ Danny has shared with you 3 key datasets for this case study:
 You can inspect the entity relationship diagram and example data below. 
 
 
-<img scr = "https://github.com/FikriAbdillah01/MLportofolio/blob/main/SQL/Dannys%20Dinner%20problems/rdm%20dannys%20dinner.jpg"
+<img scr = "SQL/Dannys Dinner problems/rdm dannys dinner.jpg"
      width = '400'
      height = '400' />
