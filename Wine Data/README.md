@@ -19,7 +19,7 @@
 
 -[Appendix A: Flowchart](#appendix-a-flowchart)
 
-
+-[Appendix B: Visualization](#appendix-b-visualization)
 
 ---
 
