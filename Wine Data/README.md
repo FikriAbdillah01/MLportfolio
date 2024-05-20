@@ -90,7 +90,7 @@ The analysis results are summarized as follows:
 
 2. `Alcohol`, `citric acid`, and `sulphates` has a positive correlation to the quality of wine, whereas `volatile acidity` has the opposite.
 
-3. The machine learning classification model could distinguish between low and high quality wine with 89% accuracy. 
+3. The machine learning classification model could distinguish between low and high quality wine with about 89% accuracy. 
 
 ### Recommendation
 
