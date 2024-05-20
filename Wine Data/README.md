@@ -138,9 +138,14 @@ There are some limitations of this analysis:
 
 ```python
 # Create Correlation using Heatmap
-fig = plt.figure(figsize=(8,9))
-sns.heatmap(data = df.drop('Id', axis =1).corr(), cmap = 'RdYlBu', annot=True)
+inf_cols = df[['quality', 'alcohol', 'citric acid', 'volatile acidity', 'sulphates']]
+cols = inf_cols.corr(method = 'spearman').nlargest(inf_cols.shape[0],'quality')['quality'].index
+cm = np.corrcoef(inf_cols[cols].values.T)
+fig = plt.figure(figsize=(5,4))
+sns.set(font_scale= 0.8)
+sns.heatmap(data = cm, cmap = 'RdYlBu', annot=True, fmt = '.2f', xticklabels=cols.values,  yticklabels=cols.values)
 fig.tight_layout()
+plt.title('Highest correlation of wine quality')
 plt.savefig('correlation data', dpi = 300)
 ```
 
@@ -149,8 +154,11 @@ plt.savefig('correlation data', dpi = 300)
 ```python
 fig = plt.figure(figsize = (7,7))
 sns.countplot(df2, x = df2['quality'])
+plt.title('wine quality distribution')
+plt.savefig('wine_quality', dpi = 200)
 ```
 
+![Wine distribution](https://github.com/FikriAbdillah01/MLportfolio/blob/a473e947d852b53be02b1f88c3eddb531f9e7a2d/Wine%20Data/wine_quality.png)
 
 ```python
 # Evaluate Random Forest Classifier Model
