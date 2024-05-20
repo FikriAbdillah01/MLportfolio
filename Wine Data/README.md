@@ -132,7 +132,7 @@ There are some limitations of this analysis:
 
 ### Appendix A: Flowchart
 
-![flowchart]("flowchart.png")
+![flowchart.png](https://github.com/FikriAbdillah01/MLportfolio/blob/9ceb7896921a04136f1b33545a69fbbc4435ae51/Wine%20Data/ML%20diagram%20dark.jpg)
 
 ### Appendix B: Visualization
 
