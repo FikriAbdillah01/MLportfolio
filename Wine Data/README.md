@@ -144,7 +144,7 @@ fig.tight_layout()
 plt.savefig('correlation data', dpi = 300)
 ```
 
-![correlation data]("correlation data.png")
+![correlation data]("Wine Data/correlation data.png")
 
 ```python
 fig = plt.figure(figsize = (7,7))
