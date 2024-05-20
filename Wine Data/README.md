@@ -168,10 +168,11 @@ def evaluation_score (test_var, prediction = rfc.predict(X_tst_sc)):
     conf_mat = confusion_matrix(test_var, prediction)
     plt.figure(figsize = (4,4))
     sns.heatmap(conf_mat, annot = True)
-    print(f'accuracy score of Random Forest Classifier model is {rfc_acc}')
+    plt.title(f'RFC model confusion matrix with accuracy: {round(rfc_acc,3)*100}%')
+    plt.savefig('rfc_class_report', dpi = 200)
     print(classification_report(test_var, prediction))
 
-evaluation_score()
+evaluation_score(y_test)
 ```
 
-![confusion matrix](conf matrix of logreg.png)
+![conf matrix of logreg.png](https://github.com/FikriAbdillah01/MLportfolio/blob/c9f62d099434a6843f11dbaaf419a2a869fb89e3/Wine%20Data/rfc_class_report.png)
