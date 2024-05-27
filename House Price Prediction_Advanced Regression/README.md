@@ -189,7 +189,7 @@ plt.title('Quality of the house (in total)')
 plt.savefig('overallquality_house', dpi = 200)
 ```
 
-![count](https://github.com/FikriAbdillah01/MLportfolio/blob/aa1c82cba9ca785139a051932144d7e531799649/House%20Price%20Prediction_Advanced%20Regression/fig/overallquality_house_total.png)
+![count](https://github.com/FikriAbdillah01/MLportfolio/blob/363f4ccda0cdfeeb7d17ced53ec631ee9613dc52/House%20Price%20Prediction_Advanced%20Regression/fig/overallquality_house_total.png)
 
 ```python
 # House SalePrice Distribution
