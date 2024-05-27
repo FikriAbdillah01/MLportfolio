@@ -133,11 +133,12 @@ cm = np.corrcoef(num_cols[cols].values.T)
 sns.set(font_scale = 0.87)
 hm = sns.heatmap(cm, cbar = True, square = True, annot = True, fmt = '.2f', xticklabels = cols.values, yticklabels = cols.values)
 plt.title('Highest Correlation of House Price')
-plt.savefig('highest_corr_features.jpg')
+plt.savefig('highest_corr_features.jpg', dpi = 200, bbox_inches = 'tight')
 
 ```
 
-![correlation-feature]()
+
+![correlation-feature](https://github.com/FikriAbdillah01/MLportfolio/blob/aa1c82cba9ca785139a051932144d7e531799649/House%20Price%20Prediction_Advanced%20Regression/fig/highest_corr_features.jpg)
 
 The table below show a short description of highest correlation feature.
 
@@ -165,7 +166,8 @@ p.fig.suptitle('House price vs year built')
 fig.tight_layout()
 plt.savefig('Distribution Plot of YearBuilt-SalePrice.jpg')
 ```
-![Plot](Distribution Plot of YearBuilt-SalePrice.jpg)
+![Distribution Plot of YearBuilt-SalePrice.jpg](https://github.com/FikriAbdillah01/MLportfolio/blob/e1287440607297da147ae4456c16553dbdd5b2fe/House%20Price%20Prediction_Advanced%20Regression/fig/Distribution%20Plot%20of%20YearBuilt-SalePrice.png)
+
 
 
 ```python
@@ -176,16 +178,16 @@ plt.title('House Price Based on Quality')
 plt.savefig('Quality Saleprice Barplot.jpg')
 ```
 
-![plot]()
+![saleprice_quality_barplot](https://github.com/FikriAbdillah01/MLportfolio/blob/e1287440607297da147ae4456c16553dbdd5b2fe/House%20Price%20Prediction_Advanced%20Regression/fig/Quality%20Saleprice%20Barplot.jpg)
 
 ```python
 #Counting the house based on the quality
 sns.countplot(df_train, x = df_train['OverallQual'])
-plt.title('Quality of the house')
+plt.title('Quality of the house (in total)')
 plt.savefig('overallquality_house', dpi = 200)
 ```
 
-![countplot]()
+![count](https://github.com/FikriAbdillah01/MLportfolio/blob/aa1c82cba9ca785139a051932144d7e531799649/House%20Price%20Prediction_Advanced%20Regression/fig/overallquality_house_total.png)
 
 ```python
 # House SalePrice Distribution
