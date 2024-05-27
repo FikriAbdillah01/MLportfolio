@@ -201,18 +201,21 @@ sns.histplot(df_train['SalePrice'], kde = True, stat = 'density')
 plt.savefig('densityplot', dpi=200)
 ```
 
-![saleprice_yearbuild]()
+![saleprice_yearbuild](https://github.com/FikriAbdillah01/MLportfolio/blob/ccd6b1f119d49d12c2beb47fa51c59582dd1780e/House%20Price%20Prediction_Advanced%20Regression/fig/distribution_plot_saleprice.png)
 
 ```python
-#Garage Area Density plot and the countplot of Garage Cars in Iowa Real Estate
+#Gaussian Distribution of GarageX features
 fig, axs = plt.subplots(1,2, figsize = (10,6))
 
 df_train['GarageArea'].plot(kind = 'density', ax = axs[0], xlabel = 'GarageArea', title = 'Distribution of Garage Area', fontsize = 8)
+axs[0].set_xlabel('Garage Area (in square feet)')
 sns.countplot(data = df_train, x = df_train['GarageCars'], ax = axs[1])
+axs[1].set_title('Size of the Garage (in cars)')
 fig.tight_layout()
-plt.savefig('garagecars_area', dpi = 200)
-
+plt.savefig('densitygarage', dpi = 200)
 ```
+
+![garagearea_denseplot_garagecars_countplot](https://github.com/FikriAbdillah01/MLportfolio/blob/ccd6b1f119d49d12c2beb47fa51c59582dd1780e/House%20Price%20Prediction_Advanced%20Regression/fig/densitygarage.png)
 
 ### Appendix C: Build a machine learning
 
