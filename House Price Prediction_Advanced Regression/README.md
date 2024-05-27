@@ -142,7 +142,7 @@ plt.savefig('highest_corr_features.jpg', dpi = 200, bbox_inches = 'tight')
 
 ![correlation-feature](https://github.com/FikriAbdillah01/MLportfolio/blob/aa1c82cba9ca785139a051932144d7e531799649/House%20Price%20Prediction_Advanced%20Regression/fig/highest_corr_features.jpg)
 
-The table below show a short description of highest correlation feature.
+The table below shows a short description of the highest correlation features.
 
 |No|Feature|Description|
 |--|--|--|
