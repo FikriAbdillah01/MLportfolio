@@ -91,7 +91,7 @@ After we analyze the data, the result we get:
 
 1. Based on *Root Mean Square Error*, the score we get is around $0.3$. It means that the machine learning is accurate enough to predict the rest of the house price.
 
-2. From the EDA step ([see Appendix B](#appendix-b-visualization), the majority of the house is built in range of 1800s and 1900s, have 4 rooms (including living room), garage, no pool, and average quality. However, some of the house built in 1900s and 2000s prices is slight expensive. Overall, whenever these houses were built, most of them were sold in fairly good quality.
+2. From the EDA step ([see Appendix B](#appendix-b-visualization), the majority of the house is built in range of 1800s and 1900s, have 8 rooms in total (above ground), around 500 square-feet garage cars, and average quality. However, some of the house built in 1900s and 2000s prices is slight expensive. Overall, whenever these houses were built, most of them were sold in fairly good quality.
 
 3. Based on the distribution plot, the range price for most house of Iowa real estate is between $100.000 and $200.000. The homeowner candidate need at least $150.000 to purchase the average house (not including tax or another additional bill).   
 
