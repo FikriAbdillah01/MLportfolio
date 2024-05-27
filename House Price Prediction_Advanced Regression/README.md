@@ -160,6 +160,10 @@ The table below shows a short description of the highest correlation features.
 
 ### Appendix B: Visualization
 
+#### Sale Price of house based on its Construction Date
+
+---
+
 ```python
 #SalePrice vs Yearbuild
 fig = plt.figure(figsize = (12,9))
@@ -170,7 +174,9 @@ plt.savefig('Distribution Plot of YearBuilt-SalePrice.jpg')
 ```
 ![Distribution Plot of YearBuilt-SalePrice.jpg](https://github.com/FikriAbdillah01/MLportfolio/blob/e1287440607297da147ae4456c16553dbdd5b2fe/House%20Price%20Prediction_Advanced%20Regression/fig/Distribution%20Plot%20of%20YearBuilt-SalePrice.png)
 
+#### Price of the house based on the Quality
 
+---
 
 ```python
 #Quality of the house and its cost 
