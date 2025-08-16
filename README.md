@@ -30,7 +30,7 @@ The objective in this project is build a model that can detect fraud on the cred
 
 <img align = 'right' width = "250" height = "150" src = "figure/wine.jpg">**[Wine Quality Detection](https://github.com/FikriAbdillah01/wine_analysis.git)**
 
-Proyek ini menggunakan data yang bersumber dari UCl repository. Sesuai dengan judulnya, tujuan dari proyek ini adalah eksplorasi kandungan wine dan membuat prediksi kualitasnya dengan menggunakan model machine learning. Saya juga membuat [note]() yang berisi pembahasan mendalam mengenai kandungan wine.
+Wine is a fermented grape drink. This project uses data sourced from the UCL repository. As the title suggests, the goal is to explore wine composition and predict its quality using a machine learning model. I've also created a [note]() containing an in-depth discussion of wine composition. I applied the ROC AUC curve to see the classification performance of machine learning.
 
 <br />
 
@@ -38,41 +38,44 @@ Proyek ini menggunakan data yang bersumber dari UCl repository. Sesuai dengan ju
 
 <img align = 'right' width = "250" height = "150" src = "figure/churn_analysis.jpg">**[Churn Analysis](https://github.com/FikriAbdillah01/customer-churn.git)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
-
+Churn is a phenomenon or event where customers decide to leave a company's services. This is common in telecommunications or technology companies that provide services. Churn analysis can help us identify patterns and factors that lead to customer churn. In this project, we will explore customer behaviour dataset. I also applied machine learning models to predict churn.
 
 #
 
 <img align = 'right' width = "250" height = "150" src = "figure/sentiment_analysis.png">**[AI Chatbot Sentiment Analysis in Google Play](https://github.com/FikriAbdillah01/ai-sentiment-analysis.git)**
 
-Dalam proyek ini saya menganalisa sentiment AI chatbot yang tersedia di google play dengan menggunakan lebih dari 10000 data. The project covers preprocessing steps such as cleaning text, remove stopwords, tokenization, data exploration, and applied sentiment analysis method such as lexicon-based and TextBlob analysis.
+In this project, I analyzed the sentiment of an AI chatbot available on Google Play using over 10,000 data sets scraped using the google play scraper. This project included several preprocessing steps such as text cleaning, stopword removal, tokenization, data exploration, and applied sentiment analysis methods such as lexicon-based analysis and TextBlob.
 
 #
 
 <img align = 'right' width = "250" height = "150" src = "figure/gdp_fig.jpg">**[Gross Domestic Product Prediction](https://github.com/FikriAbdillah01/gdp-prediction)**
 
-The goal of this project is to create a GDP prediction that robust to some macroeconomic events. The data source from the Federal Reserve Economic Data (FRED). Proyek ini memanfaatkan beberapa model regressi, e.g. simple linear regression and regularized linear regression, dengan data yang dibagi beberapa kelompok tahun untuk mendapatkan skor error prediksi terkecil.
-
+The goal of this project is to create a GDP prediction that robust to some macroeconomic events. The data source from the Federal Reserve Economic Data (FRED) is retrieved using the API. This project utilizes several regression models, e.g. simple linear regression and regularized linear regression, with the data divided into several year groups to obtain the smallest prediction error score.
 <br />
 
 ## Micro Projects
 ###  Applied Statistics and Machine Learning Model
 - [Weighted Average Ensemble](): Applied two machine learning models then combined.
+- [Priciple Component Analysis](): Apply PCA in breast cancer analysis
+- [Oversampling Method](): This method applied when there is an oversampling data. For instance credit card fraud.
+- [ROC AUC Curve](): This method is useful when 
 
 ### Challenges
-- [SQL Challenge by HackerRank]()
-- [Python Challenge by HackerRank]()
+- [SQL Challenge Danny Dinner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Dannys%20Dinner%20problems)
+- [SQL Challenge Pizza Runner](https://github.com/FikriAbdillah01/datascience-portfolio/tree/5c4045146d7c76ce957219c5dabb9b7449cde36a/SQL/Pizza%20Runner%20Problem)
 -
 
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Time series analysis, Statistics, A/B Testing, Big Data Analysits, Natural Languange Processing.
+- **Methodologies**: Machine Learning, Time series analysis, Statistics, A/B Testing, Big Data Analytics, Natural Languange Processing.
 
-- **Tools**: BigQuery, MySQL, MS Excel, Google Colab, StreamLit, Docker.
+- **Tools**: BigQuery, MySQL, MS Excel, Google Colab, StreamLit, Docker, Looker, Git, GitHub.
 
 - **Languages**: Python, SQL
 
 ## Certificate
+
+### Data Science Certificate
 
 - [Intermediate Machine Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intermediate%20Machine%20Learning.png)
 
@@ -95,3 +98,10 @@ The goal of this project is to create a GDP prediction that robust to some macro
 - [Fundamental SQL with SELECT Statement](certificate/certificate-DQLABSQLT1JMUBCP.pdf)
 
 - [Introduction to Deep Learning by Kaggle](certificate/Fikri%20Abdillah%20-%20Intro%20to%20Deep%20Learning.png)
+
+### Physics Certificate
+
+- [International Conference of Condensed Matter Physics in Malang University]()
+- [International Conference of Theoretical Physiscs in Malang Universtiy]()
+- [Remote Experience for Young Engineers and Scientist]()
+- [BICAME]()
